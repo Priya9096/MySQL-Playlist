@@ -1,5 +1,7 @@
 # Master SQL: Complete SQL Guide
 
+| MySQL Installation  | [Watch Video](https://youtu.be/QBv-3PYOBVo?si=QbVKgbHEtMh8AtWQ)      
+
 
 | S.No | Day     | Topic Name                                        | Video Link                                                                 | Interview Practice and Notes Link                                                                 |
 |------|---------|---------------------------------------------------|----------------------------------------------------------------------------|------------------------------------------------------------------------------|
