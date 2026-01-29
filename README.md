@@ -28,6 +28,10 @@
 | 23   | Day 23  |  Never-Miss SQL Concept:Date and Time Functions in MySQL  | [Watch Video](https://youtu.be/8XHhYJ3AIeY?si=wjWPFh3wfpvmG5aa)            | [View Notes](https://docs.google.com/document/d/18yUSqEVi2pS9vI6IwLlvpSTc3A3PdsLT7A0HJ_AUx7Q/edit?usp=sharing) |
 | 24   | Day 24  |  Never-Miss SQL Concept:Control Flow Functions in MySQL  | [Watch Video](https://youtu.be/Mka8pY9IScg?si=-VGJoQhUH-rdJnDX)            | [View Notes](https://docs.google.com/document/d/1OAeur2uNUr3wo8jbYSCbqm1pj6r2VmAUq2exICFRhFs/edit?usp=sharing) |
 | 25   | Day 25  |  Multirow Functions in MySQL  | [Watch Video](https://youtu.be/__Zg3UKPhU8?si=XxprqfEGPYNjf3cD)            | [View Notes](https://docs.google.com/document/d/1Uqn_JyEYwPxQsxp6F_ZkuKz_oXDmMFooZkFOHtgq-4M/edit?usp=sharing) |
+| 26   | Day 26  |  Group by Clause in MySQL  | [Watch Video](https://youtu.be/egH2kA32V48?si=tJwQK1L_kDavbMCB)            | [View Notes](https://docs.google.com/document/d/1nDM1OWp9bu51gUikwbKptIRHXfGleJ4raAy6qE9WbYY/edit?tab=t.0) |
+| 27   | Day 27  | Subqueries in MySQL  | [Watch Video](https://youtu.be/vpAM_pFjHOo?si=ikUgUUCcrkAWZ1yl)            | [View Notes](https://docs.google.com/document/d/1ZpHWU1d_8oM4LdK3fBLCFhHZ1VNUkfM4FFQbvn6NjRk/edit?tab=t.0) |
+| 28   | Day 28  | Joins in MySQL  | [Watch Video](https://youtu.be/5SbihZN48TE?si=N01O_LVXbA8RHUKV)            | [View Notes]() |
+
 
 
 | MySQL Installation  | [Watch Video](https://youtu.be/QBv-3PYOBVo?si=QbVKgbHEtMh8AtWQ)      
