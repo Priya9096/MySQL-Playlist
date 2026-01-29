@@ -5,6 +5,7 @@
 
 | S.No | Day     | Topic Name                                        | Video Link                                                                 | Interview Practice and Notes Link                                                                 |
 |------|---------|---------------------------------------------------|----------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| 0    | Day 00  | MySQL Installation | [Watch Video](https://youtu.be/QBv-3PYOBVo?si=QbVKgbHEtMh8AtWQ)           
 | 1    | Day 01  | Data, Types of Data, Database, Types of Database, DBMS, Type of DBMS | [Watch Video](https://youtu.be/D9UvdFzixGA?si=hQb_j2INavsS5NSA)            | [View Notes](https://docs.google.com/document/d/1n09IrUBc6ATmU7ohJLxGV5VdBUFdMaPsbLvHHPUs0cY/edit?tab=t.0) |
 | 2    | Day 02  | Create Tables in SQL                              | [Watch Video](https://youtu.be/YKMh7HYcnzg?si=FuPSmke3kukiRrZd)            | [View Notes](https://docs.google.com/document/d/1gYoIJh3UF9TVPthCgHxYzqrE_ZLnQqBmCdAvIa_3KsM/edit?tab=t.0) |
 | 3    | Day 03  | MySQL Data Types and Case Sensitivity             | [Watch Video](https://youtu.be/UPAL9D2f4UM?si=xVaAun-n_mN87iqr)            | [View Notes](https://docs.google.com/document/d/1SW8cS9JUfkdX0R6HTGue22uyTeoDwP5gTkt-MBQCt4U/edit?tab=t.0) |
